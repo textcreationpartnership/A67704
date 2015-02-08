@@ -137,7 +137,10 @@
             <p>
                <hi>LONDON,</hi> Printed for <hi>Matthew Gilliflower,</hi> at the <hi>Spread Eagle</hi> in <hi>Westminster-Hall,</hi> and <hi>James Norris,</hi> at the <hi>Kings-Arms</hi> without <hi>Temple-Bar.</hi> 1685.</p>
             <pb facs="tcp:47208:2" rendition="simple:additions"/>
-            <figure/>
+            <p>
+               <pb facs="tcp:47208:2"/>
+               <figure/>
+            </p>
             <p>Printed for Matt: Gilliflower &amp; James Norris.</p>
             <pb facs="tcp:47208:3" rendition="simple:additions"/>
             <pb facs="tcp:47208:3" rendition="simple:additions"/>
